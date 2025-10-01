@@ -25,3 +25,4 @@ conda activate mlproj
 ``` bash
 pip install -r requirements.txt
 ```
+ in this project i have used Elastic net and the advantages to use elastic net is its help use preventing overfitting and underfitting condition, elastic net has some parameter it has alpha value and L1 ratio
